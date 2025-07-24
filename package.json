@@ -1,0 +1,12 @@
+{
+  "name": "node-ddos",
+  "version": "1.0.0",
+  "description": "A Node.js script for bypass testing with proxies",
+  "main": "bypass.js",
+  "scripts": {
+    "start": "node bypass.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
